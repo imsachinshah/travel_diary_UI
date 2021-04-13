@@ -2,8 +2,8 @@
 
 A new Flutter UI with Hero Animation use to changes the page route very easily.
 
-<img src = 'Screenshot\screenshot-2021-04-13_03.02.17.847.png', width = "50%">
-<img src = 'Screenshot\screenshot-2021-04-13_03.02.26.504.png', width = "50%">
+<img src = 'Screenshot\screenshot-2021-04-13_03.02.17.847.png' >
+<img src = 'Screenshot\screenshot-2021-04-13_03.02.26.504.png'>
 
 
 ## Getting Started
